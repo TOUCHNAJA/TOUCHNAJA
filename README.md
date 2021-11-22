@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Touch</h1>
 <h3 align="center">I'm IT student in Suranaree University of Technology</h3>
-<p align="center"><img  src="https://64.media.tumblr.com/b0ab7db1a4fd50a1cfa7360df014c879/tumblr_mvuyygQKst1rt40qgo1_250.gifv"></p>
-<p align="center"><img  src="https://64.media.tumblr.com/02e45327025631be7d79a1811730c099/tumblr_mvuyygQKst1rt40qgo3_250.gifv"></p>
+<p align="center"><img  src="https://64.media.tumblr.com/b0ab7db1a4fd50a1cfa7360df014c879/tumblr_mvuyygQKst1rt40qgo1_250.gifv">
+<img  src="https://64.media.tumblr.com/02e45327025631be7d79a1811730c099/tumblr_mvuyygQKst1rt40qgo3_250.gifv"></p>
+<p align="center"><img  src="https://64.media.tumblr.com/64ebcdb3092073b3dcf84c6b6fd17f46/tumblr_mvuyygQKst1rt40qgo2_250.gifv">
+<img  src="https://64.media.tumblr.com/61f75f3cd9fb3c066c02caaf6f61b0d6/tumblr_mvuyygQKst1rt40qgo4_250.gifv"></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=touchnaja&label=Profile%20views&color=0e75b6&style=flat" alt="touchnaja" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=touchnaja" alt="touchnaja" /></a> </p>
