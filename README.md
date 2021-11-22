@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Touch</h1>
 <h3 align="center">I'm IT student in Suranaree University of Technology</h3>
-<img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" alt="Paris" class="center">
+<img align="center" src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=touchnaja&label=Profile%20views&color=0e75b6&style=flat" alt="touchnaja" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=touchnaja" alt="touchnaja" /></a> </p>
